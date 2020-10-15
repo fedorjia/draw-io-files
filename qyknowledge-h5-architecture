@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T02:51:55.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FDzuZB5SiT-_waOpFvLf" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T03:00:58.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Tuw_anlXvju2F7himrNE" version="13.8.0" type="github">
   <diagram id="p0jsWDh6OpeZQM5HVkJp" name="Page-1">
     <mxGraphModel dx="2249" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,18 @@
           <mxGeometry x="-0.2909" y="-1" relative="1" as="geometry">
             <mxPoint x="10" y="-1.2400000000000002" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-54" value="手机端、PCA访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=south;base=10;size=40;position=0.5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="145" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-55" value="TV端应用访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=south;base=10;size=40;position=0.5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="183" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-56" value="CSS、JS 资源访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=north;base=13;size=30;position=0.29;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="147.5" width="180" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-57" value="图片 资源访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=north;base=13;size=30;position=0.29;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="185" width="180" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
