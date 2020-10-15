@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T03:02:08.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="x6QSjy1HzKy8uzFs73Eb" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T03:10:12.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6ugoPHPycqb97i5MNOU0" version="13.8.0" type="github">
   <diagram id="p0jsWDh6OpeZQM5HVkJp" name="Page-1">
     <mxGraphModel dx="2249" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry x="247.5" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#08BF47;" vertex="1" parent="1">
-          <mxGeometry x="410" y="130" width="130" height="80" as="geometry" />
+          <mxGeometry x="370" y="130" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;客户端&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="424" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="384" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-11" value="用户访问" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#08BF47;" vertex="1" parent="1">
-          <mxGeometry x="429" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="389" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#08BF47;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="360" width="230" height="480" as="geometry" />
@@ -52,34 +52,18 @@
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-17" value="H5-Node（2台）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#08BF47;" vertex="1" parent="1">
           <mxGeometry x="570" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514" y="180" as="sourcePoint" />
-            <mxPoint x="620" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-24" value="zhishi.m.iqiyi.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="150" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-25" value="zhishi.m.ptqy.gitv.tv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="615" y="188" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="323" y="179.5" as="sourcePoint" />
-            <mxPoint x="429" y="179.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-27" value="static.iqiyi.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="150" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-28" value="pic[1-4].iqiyi.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="188" width="105" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dv3UwK5WveZHKHy9V7hS-12">
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dv3UwK5WveZHKHy9V7hS-9" target="Dv3UwK5WveZHKHy9V7hS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="629.5" y="208" as="sourcePoint" />
             <mxPoint x="629.5" y="348" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-60" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;zhishi.m.iqiyi.com&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;zhishi.m.ptqy.gitv.tv&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dv3UwK5WveZHKHy9V7hS-29">
+          <mxGeometry x="-0.5786" y="-5" relative="1" as="geometry">
+            <mxPoint x="53" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-30" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dv3UwK5WveZHKHy9V7hS-15" target="Dv3UwK5WveZHKHy9V7hS-16">
@@ -124,10 +108,18 @@
             <mxPoint x="630.5" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dv3UwK5WveZHKHy9V7hS-42" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dv3UwK5WveZHKHy9V7hS-7">
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-42" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dv3UwK5WveZHKHy9V7hS-9" target="Dv3UwK5WveZHKHy9V7hS-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="292" y="208" as="sourcePoint" />
             <mxPoint x="292.5" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv3UwK5WveZHKHy9V7hS-62" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;static.iqiyi.com&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;pic[1-4].iqiyi.com&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dv3UwK5WveZHKHy9V7hS-42">
+          <mxGeometry x="-0.8157" y="-1" relative="1" as="geometry">
+            <mxPoint x="-50" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-43" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Dv3UwK5WveZHKHy9V7hS-4" target="Dv3UwK5WveZHKHy9V7hS-6">
@@ -179,16 +171,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-54" value="手机端、PCA访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=south;base=10;size=40;position=0.5;" vertex="1" parent="1">
-          <mxGeometry x="690" y="145" width="200" height="30" as="geometry" />
+          <mxGeometry x="676" y="145" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-55" value="TV端应用访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=south;base=10;size=40;position=0.5;" vertex="1" parent="1">
-          <mxGeometry x="690" y="183" width="200" height="30" as="geometry" />
+          <mxGeometry x="676" y="172" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-56" value="CSS、JS 资源访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=north;base=13;size=30;position=0.29;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="147.5" width="180" height="27.5" as="geometry" />
+          <mxGeometry x="67.5" y="132.5" width="180" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="Dv3UwK5WveZHKHy9V7hS-57" value="图片 资源访问的域名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#08BF47;direction=north;base=13;size=30;position=0.29;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="185" width="180" height="27.5" as="geometry" />
+          <mxGeometry x="67.5" y="162.25" width="180" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
