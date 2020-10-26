@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:35:35.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lllupUWwz_3S55IwG1l2" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:37:47.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uz2QCVQccIZXHN__hu32" version="13.8.2" type="github">
   <diagram id="gfnUJu7TLGORwSLl_J-d" name="Page-1">
     <mxGraphModel dx="1062" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xJqPMLtHzBKI9CbUthfr-3" value="&lt;font color=&quot;#ffffff&quot;&gt;H5 服务类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#00CC66;" vertex="1" parent="1">
-          <mxGeometry x="540" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-4" value="&lt;font color=&quot;#ffffff&quot;&gt;H5移动端主站&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#00CC66;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -114,6 +111,30 @@
         </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-49" value="训练营" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="708" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="870" y="190" width="166" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-53" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;H5 用户类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="893" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-54" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-55" value="我的已购" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-56" value="我的订单" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-57" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-58" value="我的预约直播" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-59" value="我的奖学金" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="908" y="460" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
