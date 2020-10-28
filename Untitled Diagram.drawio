@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T08:39:21.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ZXyK__ROnuAMyTz8lprz" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T08:39:49.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cR15OpYym-LV9KDyD-a5" version="13.8.5" type="github">
   <diagram id="gfnUJu7TLGORwSLl_J-d" name="Page-1">
     <mxGraphModel dx="1004" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,15 +48,6 @@
         </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-32" value="榜单" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="508" y="340" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xJqPMLtHzBKI9CbUthfr-33" value="套餐" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="508" y="380" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xJqPMLtHzBKI9CbUthfr-34" value="分享返利" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="508" y="420" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xJqPMLtHzBKI9CbUthfr-35" value="虚拟商品" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="508" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1280" y="190" width="166" height="345" as="geometry" />
