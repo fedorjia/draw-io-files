@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T06:45:37.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Yzt-6x2ug0RBI259cLqs" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T06:46:14.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ExPWCvPGHPmuNW9tSzyr" version="13.8.5" type="github">
   <diagram id="gfnUJu7TLGORwSLl_J-d" name="Page-1">
     <mxGraphModel dx="1854" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="xJqPMLtHzBKI9CbUthfr-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xJqPMLtHzBKI9CbUthfr-53" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;H5 用户类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#00CC66;" parent="1" vertex="1">
+        <mxCell id="xJqPMLtHzBKI9CbUthfr-53" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;H5 用户中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#00CC66;" parent="1" vertex="1">
           <mxGeometry x="93" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-67" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
