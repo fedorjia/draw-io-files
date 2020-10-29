@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:29:19.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NMlbMyuC7LM-fhvzuVQ6" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:32:39.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9CCqRIDQWsx6Urh5rcYe" version="13.8.5" type="github">
   <diagram id="8ZgtE-5p0LcGewIXSG8X" name="Page-1">
-    <mxGraphModel dx="-790" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-790" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-139" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-138">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-140" value="基础工具组件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-138">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-140" value="基础工具组件：fetch, pingback, qos, callnative ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-138">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-142" value="&lt;b&gt;基础UI组件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cdeb8b;align=center;" vertex="1" parent="1">
