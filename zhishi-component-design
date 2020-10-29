@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:54:53.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="eINmx8avCf1KUeNQrI6v" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T10:13:23.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cWO1xDIIexSPbn5vHKOs" version="13.8.5" type="github">
   <diagram id="8ZgtE-5p0LcGewIXSG8X" name="Page-1">
-    <mxGraphModel dx="200" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="37" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
             <mxPoint x="1529.9999999999998" y="429.5450000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-22" value="基础UI组件： button text img， loading, msgbox ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-22" value="基础UI组件： button, text, loading, msgbox ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="400" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-24" value="基础工具组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
