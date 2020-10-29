@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T11:35:21.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UH-3RLNZFjk3sIAFMjvx" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T11:36:05.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="58LZnRKSULf0-_D805QX" version="13.8.5" type="github">
   <diagram id="8ZgtE-5p0LcGewIXSG8X" name="Page-1">
     <mxGraphModel dx="-790" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-127" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-126">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-128" value="功能组件: 播放器，发布器，分享组件 ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-126">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-128" value="功能组件: 播放器、发布器、分享组件 ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-126">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-96">
@@ -31,7 +31,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-103">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-105" value="区块组件：评论组件, 评价组件 ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-103">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-105" value="区块组件：评论组件、评价组件 ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-103">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=1;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;perimeterSpacing=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-96">
@@ -40,7 +40,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-99" value="Card组件：轮播图、List， Grid ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-99" value="Card组件：轮播图、List、Grid ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-129" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=1;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;perimeterSpacing=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-96">
