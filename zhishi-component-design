@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T12:24:59.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="LoVXXdfyjGI-KzU78C5X" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T12:30:40.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="D_N8utVebmK_pXJ8yjpz" version="13.8.5" type="github">
   <diagram id="8ZgtE-5p0LcGewIXSG8X" name="Page-1">
     <mxGraphModel dx="-786" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-99" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Card组件&lt;/b&gt;：轮播图, List, Grid ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-99" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Card组件&lt;/b&gt;：应对Card化数据，如：轮播图, 列表, 宫格、异步组件 ..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=14;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-97">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-129" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=1;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;perimeterSpacing=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="HBhjraQlgGhYWRaLjW7I-96">
