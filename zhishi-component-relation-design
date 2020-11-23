@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T12:37:34.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="y-rHzyqpQVEHbfEAXp6W" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T12:41:13.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5IoGZNQVoMb2kU-Sfo0l" version="13.10.1" type="github">
   <diagram id="B2u36EsEx3SoBTAYgElp" name="Page-1">
-    <mxGraphModel dx="868" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xgJkBYitqMquGiue0NV5-11" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-210" width="560" height="730" as="geometry" />
+          <mxGeometry x="235" y="-200" width="560" height="730" as="geometry" />
         </mxCell>
         <mxCell id="xgJkBYitqMquGiue0NV5-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="260" y="-20" width="370" height="260" as="geometry" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="xgJkBYitqMquGiue0NV5-5" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="332" y="77" width="366" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="0UatxTXCd39hU8Um2K1X-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基础组件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="467.5" y="160" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xgJkBYitqMquGiue0NV5-7" value="Card 组件" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="264" y="87" width="80" height="23" as="geometry" />
@@ -33,6 +30,18 @@
         </mxCell>
         <mxCell id="xgJkBYitqMquGiue0NV5-12" value="页面组件" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="475" y="-160" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xgJkBYitqMquGiue0NV5-13" value="" style="endArrow=none;html=1;fontSize=18;exitX=0.36;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.36;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395.68399999999997" y="239.4000000000001" as="sourcePoint" />
+            <mxPoint x="638.7079999999999" y="239.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgJkBYitqMquGiue0NV5-14" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=18;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0UatxTXCd39hU8Um2K1X-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基础组件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="467.5" y="165" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
