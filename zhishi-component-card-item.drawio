@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T02:07:33.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="t6bFy6lP0tKZMiXPH3sh" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:47:25.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BivYQ3cw4FEfttjC48vs" version="13.10.1" type="github">
   <diagram id="FQblj2AnKpv46tvng0mw" name="Page-1">
-    <mxGraphModel dx="868" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,16 @@
         <mxCell id="6I1ZwiVMRoQ_c3omOYQG-7" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="300" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-8" value="Item&lt;br&gt;组件" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-8" value="&lt;font color=&quot;#ffffff&quot;&gt;Item&lt;br&gt;组件&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="606" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-9" value="Item&lt;br&gt;组件" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Item&lt;br&gt;组件&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-10" value="Item&lt;br&gt;组件" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Item&lt;br&gt;组件&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="655" y="320" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-11" value="......" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="6I1ZwiVMRoQ_c3omOYQG-11" value="&lt;font color=&quot;#ffffff&quot;&gt;......&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="606" y="390" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
