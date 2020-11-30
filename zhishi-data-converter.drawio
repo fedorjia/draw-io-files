@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:10:30.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T5Z0ho-kW3DvO3PClBYl" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:10:46.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FQWasUkmZQWqtEUQSz1W" version="13.10.1" type="github">
   <diagram id="bvnqyPXvRYH4Tg_kPuXH" name="Page-1">
     <mxGraphModel dx="1026" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="ID-CcuY_OrSWUhiPE8Nc-4" value="&lt;font color=&quot;#ffffff&quot;&gt;前端 Card数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-5" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件1&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-5" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件1&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="50" y="490" width="150" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-6" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件2&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-6" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件2&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="150" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-7" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件N&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="ID-CcuY_OrSWUhiPE8Nc-7" value="&lt;font color=&quot;#ffffff&quot;&gt;业务组件N&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="414" y="490" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ID-CcuY_OrSWUhiPE8Nc-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ID-CcuY_OrSWUhiPE8Nc-2" target="ID-CcuY_OrSWUhiPE8Nc-3">
