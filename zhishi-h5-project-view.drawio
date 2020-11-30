@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T06:51:16.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HHjNybqDuFGZs1Bb8Ysw" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T01:56:28.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="najaQI1DzXYe2S6TNAh9" version="13.10.1" type="github">
   <diagram id="gfnUJu7TLGORwSLl_J-d" name="Page-1">
-    <mxGraphModel dx="1854" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1839" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,12 +87,6 @@
         </mxCell>
         <mxCell id="xJqPMLtHzBKI9CbUthfr-85" value="学习激励发券" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="908" y="340" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rDMkoJnQCEpyukEQ94dN-1" value="用户相关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="108" y="260" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rDMkoJnQCEpyukEQ94dN-2" value="主站相关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC66;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-92" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
