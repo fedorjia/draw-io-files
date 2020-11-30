@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T01:35:26.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XeQLlVKF7t3utWDpVEy8" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T01:47:38.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8ZIavzlXisoJFXyTUi6_" version="13.10.1" type="github">
   <diagram id="8ZgtE-5p0LcGewIXSG8X" name="Page-1">
     <mxGraphModel dx="-642" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="HBhjraQlgGhYWRaLjW7I-130" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="HBhjraQlgGhYWRaLjW7I-129" vertex="1">
           <mxGeometry width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBhjraQlgGhYWRaLjW7I-131" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Item组件&lt;/b&gt;: 业务组件最小单元，如：课程列表item, 课程宫格item..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=14;" parent="HBhjraQlgGhYWRaLjW7I-129" vertex="1">
+        <mxCell id="HBhjraQlgGhYWRaLjW7I-131" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Item组件&lt;/b&gt;: 业务组件最小单元，如：资产列表item, 资产宫格item..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=14;" parent="HBhjraQlgGhYWRaLjW7I-129" vertex="1">
           <mxGeometry x="127" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBhjraQlgGhYWRaLjW7I-132" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=1;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=none;perimeterSpacing=0;strokeWidth=1;shadow=0;sketch=0;" parent="HBhjraQlgGhYWRaLjW7I-96" vertex="1">
