@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T01:37:27.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BNVJzz3vzFKCA9iU_oUL" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T01:38:34.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4EN7dBz1ZVugVrUPbPsD" version="13.10.1" type="github">
   <diagram id="B2u36EsEx3SoBTAYgElp" name="Page-1">
     <mxGraphModel dx="1012" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="xgJkBYitqMquGiue0NV5-14" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=18;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="0UatxTXCd39hU8Um2K1X-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基础组件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="467.5" y="165" width="95" height="40" as="geometry" />
+        <mxCell id="HSlK-bHM1lcq-MQG5VyM-8" value="基础组件" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="170" width="80" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
